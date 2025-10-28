@@ -1,4 +1,4 @@
-### 🌐 How Azure Enables Direct URL Access Without a CPU or OS
+### 🌐 How Azure Enables Direct URL Access Without a VM and OS
 
 This project demonstrates how **Microsoft Azure** enables direct URL access through the **Internet using IP and NIC networks** — even **without relying on a CPU or Operating System**.  
 It highlights the power of **Azure Storage Accounts** and how cloud infrastructure simplifies **data hosting and web accessibility** in real-world applications.

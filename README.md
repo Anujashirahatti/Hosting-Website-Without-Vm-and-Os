@@ -1,18 +1,18 @@
-# 🌐 How Azure Enables Direct URL Access Without a CPU or OS
+## 🌐 How Azure Enables Direct URL Access Without a CPU or OS
 
 This project demonstrates how **Microsoft Azure** enables direct URL access through the **Internet using IP and NIC networks** — even **without relying on a CPU or Operating System**.  
 It highlights the power of **Azure Storage Accounts** and how cloud infrastructure simplifies **data hosting and web accessibility** in real-world applications.
 
 ---
 
-## 🚀 Overview
+### 🚀 Overview
 
 The goal of this experiment is to host and access a **static website** using Azure Storage Accounts.  
 By configuring the *Static Website* feature, we can upload files directly to Azure and access them through a public URL without any compute resources.
 
 ---
 
-## 🧭 Steps Followed
+### 🧭 Steps Followed
 
 ### 🔹 Step 1: Create a Storage Account
 - Log in to the [Azure Portal](https://portal.azure.com/).  

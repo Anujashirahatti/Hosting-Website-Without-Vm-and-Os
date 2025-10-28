@@ -49,7 +49,7 @@ By configuring the *Static Website* feature, we can upload files directly to Azu
 You can watch the complete demonstration of the Hosting website without Vm and Osbelow:  
 
 👉 
-https://www.mediafire.com/file/c1le9njfjsv5azr/How+Azure+Enables+Direct+URL+Access+Without+a+CPU+or+OS.mp4/file
+https://tinyurl.com/5etkp9xe
 
 ---
 
